@@ -9,10 +9,18 @@
 </p>
 
 <p align="center">
-    𓂃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>𝒾𝓈&nbsp;&nbsp;ᥲ</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;･ ׄ𓏵𓏵　  
+    𓂃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>𝒾𝓈_&nbsp;&nbsp;_ᥲ</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;･ ׄ𓏵𓏵　  
 </p>
 
-<p align="right">
-  <img src="assets/moldura.png" width="40%">
-</p>
+<br>
 
+<div>
+  <p align="left">
+    <img src="assets/cross.gif">
+    – 𝚊. &nbsp;𝓂ℯ
+  </p>
+  
+  <p align="right">
+    <img src="assets/moldura.png" width="40%">
+  </p>
+</div>
