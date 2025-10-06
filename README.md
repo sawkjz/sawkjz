@@ -14,13 +14,22 @@
 
 <br>
 
-<div>
   <p align="left">
     <img src="assets/cross.gif">
     – 𝚊. &nbsp;𝓂ℯ
   </p>
   
-  <p align="right">
-    <img src="assets/moldura.png" width="40%">
-  </p>
+  <div align="center">
+
+  <img src="assets/moldura.png" align="right" width="320">
+  <hr>
+  <p align="left">
+    ⠁name: isadora<br>
+    ⠁gender +y: she /20y<br>
+    ⠁hobbies: web dev, UX, games<br>
+    ⠁studying: systems analysis and development @ FACULDADE DE TECNOLOGIA SENAC PR<br>
+    ⠁working: API, technical support & consulting (Meta Business) and others
+</p>
+
+  <br><br>
 </div>
