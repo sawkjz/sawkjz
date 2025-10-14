@@ -27,7 +27,7 @@
     예수님 | <img src="assets/wings2.gif" height="30" width="20">.͏<br><br>
     </p>
     <p>
-      "O 𝑆enhor pro𝘵ege os j𝓊𝓈tos e os <br>liv૨α da inveja dos malv̶a̶d̶os.” – Salmos 31:19<br><br>
+      "𝓐 tecnologia é apenas uma ferramenta. No que diz respeito a fazer as crianças trabalharem juntas e se motivarem, o professor é o mais importante.” – Bill Gates<br><br>
     </p>
     <p align="left">
     ⠁nαme: isadora<br>
