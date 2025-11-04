@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/lace-divider.png" width="100%">
+  <img src="assets/dividers/lace-divider.png" width="100%">
 </p>
 
 <br><br>
@@ -15,16 +15,16 @@
 <br>
 
   <p align="left">
-    <img src="assets/cross.gif">
+    <img src="assets/emotes/cross.gif">
     – 𝚊. &nbsp;𝓂ℯ
   </p>
   
   <div align="center">
 
-  <img src="assets/moldura.png" align="right" width="320">
+  <img src="assets/img/moldura.png" align="right" width="320">
   <hr>
   <p align="left">
-    예수님 | <img src="assets/wings2.gif" height="30" width="20">.͏<br><br>
+    예수님 | <img src="assets/emotes/wings2.gif" height="30" width="20">.͏<br><br>
     </p>
     <p>
       "𝓐 tecnologia é apenas uma ferramenta. No que diz respeito a fazer as crianças trabalharem juntas e se motivarem, o professor é o mais importante.” – Bill Gates<br><br>
