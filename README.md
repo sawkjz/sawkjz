@@ -24,7 +24,7 @@
   <img src="assets/img/moldura.png" align="right" width="320">
   <hr>
   <p align="left">
-    예수님 | <img src="assets/emotes/wings2.gif" height="30" width="20">.͏<br><br>
+    예수님 | <img src="assets/emotes/wings-!.gif" height="30" width="25">.͏<br><br>
     </p>
     <p>
       "𝓐 tecnologia é apenas uma ferramenta. No que diz respeito a fazer as crianças trabalharem juntas e se motivarem, o professor é o mais importante.” – Bill Gates<br><br>
