@@ -1,12 +1,12 @@
 <p align="center">
   <img src="assets/dividers/lace-divider.png" width="100%">
-</p><br>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sawkjz&color=f7cad0&style=for-the-badge" />
 </p>
 
-<br><br>
+<p align="right">
+  <img src="https://hits.sh/github.com/sawkjz.svg?style=for-the-badge&label=%E2%80%93&color=d7d8d8&labelColor=0d1117" width="50px" height="40px"/>
+</p>
+
+<br>
 
 <p align="center">
   .&nbsp;&nbsp;&nbsp;&nbsp;　　𐙚𓏵𓏵𓏵𐙚
@@ -36,21 +36,36 @@
 <div align="center">
   <img src="https://64.media.tumblr.com/e92a1b30b4b5c2eb8c9d35bc15026e60/caaf2eb6c334e4ec-1e/s400x600/5c1ecf29fa7ab213e97d6f0e9a6c83c78df2fb56.png" align="right" width="320">
 </div>
+
 <hr>
   
 <p align="left">
-  예수님 | <img src="assets/emotes/wings-!.gif" height="30" width="25">.͏<br><br>
+  예수님 | <img src="assets/emotes/wings-!.gif" height="30" width="25">.͏
+  <br>
+  <br>
 </p>
     
 <p align="left">
   <img src="https://64.media.tumblr.com/66e5b819b7a948727e3f47ffcc54ce47/b18aff3ce9323114-28/s75x75_c1/6cc5b1c67749bb51536c9cb788c36addb5ed4d0e.gif" width="15px" height="15px"/>
-  . I'm heading into my final semester of college studying Systems Analysis and Development.<br>
+  . I'm heading into my final semester of college studying Systems Analysis and Development.
+  
+  <br>
+  
   <img src="https://64.media.tumblr.com/1cb2aa20bef2dd1d64c12ebb3da46349/a5bd82c6d3db4d23-09/s75x75_c1/a874f6608969b3499f829902150578b9aa31945a.gif" width="15px" height="15px"/>
-  . I'm currently work as a technical support specialist in API integration.<br>
+  . I'm currently work as a technical support specialist in API integration.
+  
+  <br>
+  
   <img src="https://64.media.tumblr.com/93724586c893fb5363add84feb8a2f91/c386207701a03e4c-4d/s75x75_c1/fd0a8a27d70e3764fed438ae623c5c474d7a491e.gif" width="15px" height="15px"/>
-  . I'm learning SQL, Node.js, React, JavaScript, and TypeScript. I'm dedicated to learning Java and C#.<br>
+  . I'm learning SQL, Node.js, React, JavaScript, and TypeScript. I'm dedicated to learning Java and C#.
+  
+  <br>
+  
   <img src="https://64.media.tumblr.com/02a89f8f33d116682a7e0ee53e78a4b2/92dff24d7a47ddd2-09/s75x75_c1/5ad0c2d987cba382763b073f2547fe42d8b606ba.gif" width="15px" height="15px"/>
-  . In my free time, I enjoy creating mini-games and websites with my own aesthetic freedom, and singing.<br>
+  . In my free time, I enjoy creating mini-games and websites with my own aesthetic freedom, and singing.
+  
+  <br>
+  
   <br>
 <p>
   <img src="https://64.media.tumblr.com/d6996a9f345a0f611e61f7067a4c9447/779aa251fd339498-f4/s2048x3072/5cae228d526d993e9b179ac02a13839d8fe85ee2.png" width="720px" height="200px"/>
@@ -66,14 +81,25 @@
 
 <p align="left">
   <img src="https://64.media.tumblr.com/3861efe7d15fdb9028cf6328005f6a97/141ce20fa5509dc6-d0/s1280x1920/9d5063044921ba95519efe752b6900213433e6db.png" width="340px" height="200px"/>
-</p><br>
+</p>
+
+<br>
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-dedede?style=for-the-badge&logo=html5&logoColor=black" />
+  <img src="https://img.shields.io/badge/NODE.JS-0d1117?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-584a40?style=for-the-badge&logo=css&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-b6a899?style=for-the-badge&logo=javascript&logoColor=white" />
-</div><br>
+</div>
+
+<br>
 
 <p align="right">
   <img src="https://64.media.tumblr.com/3861efe7d15fdb9028cf6328005f6a97/141ce20fa5509dc6-d0/s1280x1920/9d5063044921ba95519efe752b6900213433e6db.png" width="340px" height="200px"/>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="assets/dividers/lace-divider2.png" width="100%">
 </p>
