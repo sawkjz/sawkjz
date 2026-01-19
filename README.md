@@ -52,7 +52,7 @@
   <br>
   
   <img src="https://64.media.tumblr.com/1cb2aa20bef2dd1d64c12ebb3da46349/a5bd82c6d3db4d23-09/s75x75_c1/a874f6608969b3499f829902150578b9aa31945a.gif" width="15px" height="15px"/>
-  . I'm currently work as a technical support specialist in API integration.
+  . I recently worked as a technical support specialist in API integration.
   
   <br>
   
